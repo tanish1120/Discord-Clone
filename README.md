@@ -23,7 +23,6 @@
 
 <ul>
   <li>The project was developed with the help of the Tailwind CSS framework.</li>
-  <li>Custom fonts used in the clone were downloaded from [source-name].</li>
 </ul>
 
 <h2>Contact</h2>
